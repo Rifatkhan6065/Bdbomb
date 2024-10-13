@@ -1,0 +1,2 @@
+# Bdbomb
+Bd call bomber 
